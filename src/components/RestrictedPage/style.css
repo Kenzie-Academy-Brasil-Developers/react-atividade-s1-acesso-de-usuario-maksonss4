@@ -1,0 +1,18 @@
+button{
+    cursor: pointer;
+    border: 0;
+    border-radius: 5px;
+    font-weight: bold;
+    padding: 5px;
+    width: 80px;
+}
+
+button:hover{
+    transition: .6s;
+    background-color: rgb(182, 214, 243);
+}
+
+h3{
+    font-style: italic;
+    border-bottom: 1px solid white;
+}
